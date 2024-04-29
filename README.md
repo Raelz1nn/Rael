@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Rael
 
-- 📚 Estudante de ciência da computação e um amante de programação
+- 📚 Estudante de ciência da computação 
 - 📧 E-mail: leonardorael12@gmail.com
-- 😁 Pronomes: ele/dele
+
 
 - <picture>
   <source
