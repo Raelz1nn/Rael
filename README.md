@@ -2,8 +2,6 @@
 
 - 📚 Estudante de ciência da computação 
 - 📧 E-mail: leonardorael12@gmail.com
-
-
 - <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
